@@ -36,3 +36,10 @@ Deploy:
 ```
 npx hardhat run scripts/deploy.js --network rinkeby
 ```
+
+To get the UI running locally just go to `epic-nfts-ui` folder and:
+
+```
+npm install
+npm run start
+```

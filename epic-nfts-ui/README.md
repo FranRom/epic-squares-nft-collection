@@ -1,4 +1,4 @@
-# buildspace Mint Your Own NFT Collection
+# Epic Squares NFT Collection UI
 
 ### **Welcome 👋**
 
